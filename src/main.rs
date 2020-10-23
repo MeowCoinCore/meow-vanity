@@ -127,7 +127,7 @@ fn check_solution(params: &ThreadParams, key_material: [u8; 32]) -> bool {
 fn main() {
     let args = clap::App::new("meow-vanity")
         .version(env!("CARGO_PKG_VERSION"))
-        .author("Lee Bousfield <ljbousfield@gmail.com>")
+        .author("Kyle London <kyle.london992@gmail.com>")
         .about("Generate Meow Coin cryptocurrency addresses with a given prefix")
         .arg(
             clap::Arg::with_name("prefix")
