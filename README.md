@@ -2,7 +2,7 @@
 
 This project is a fork of the original nano-vanity tool used to generate NANO addresses with given prefix.
 It is forked and suited for use to generate Meow coin addresses.
-If you are looking for NANO address generator tool, visit the original tool creator repository [here](https://github.com/PlasmaPower/nano-vanity)
+If you are looking for NANO address generator tool, visit the original tool creator repository [here](https://github.com/PlasmaPower/nano-vanity) or simply use this tool, you will be able to use the same keys for nano wallets as well despite the address.
 Main credits for this tool go towards [nano-vanity team](https://github.com/PlasmaPower).
 
 # meow-vanity
