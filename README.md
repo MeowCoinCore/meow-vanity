@@ -14,7 +14,7 @@ The longer the prefix, the longer it'll take to compute.
 
 First, setup Rust. The best way to do this is with [rustup](https://rustup.rs).
 
-To install `meow-vanity` from crates.io:
+To install `meow-vanity` from [crates.io](https://crates.io/crates/meow-vanity):
 
 ```
 cargo install meow-vanity
