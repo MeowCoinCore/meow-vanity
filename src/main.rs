@@ -206,7 +206,7 @@ fn main() {
     let mut ext_pubkey_mask = BigInt::default();
     if let Some(mut prefix) = args.value_of("prefix") {
         if prefix.starts_with("meow_") {
-            prefix = &prefix[4..];
+            prefix = &prefix[5..];
         }
         if prefix.starts_with("meow_") {
             prefix = &prefix[5..];
