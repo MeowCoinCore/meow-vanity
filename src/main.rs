@@ -208,9 +208,6 @@ fn main() {
         if prefix.starts_with("meow_") {
             prefix = &prefix[5..];
         }
-        if prefix.starts_with("meow_") {
-            prefix = &prefix[5..];
-        }
         let mut prefix_chars = prefix.chars();
         let mut prefix_req = BigInt::default();
         let mut prefix_mask = BigInt::default();
